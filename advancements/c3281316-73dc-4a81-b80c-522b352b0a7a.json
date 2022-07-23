@@ -1,0 +1,38 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2022-07-21 02:26:01 -0500"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2022-07-21 02:26:05 -0500"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2022-07-21 02:26:01 -0500"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2022-07-21 02:26:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "jungle": "2022-07-21 02:26:01 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2022-07-21 02:26:52 -0500"
+    },
+    "done": true
+  }
+}

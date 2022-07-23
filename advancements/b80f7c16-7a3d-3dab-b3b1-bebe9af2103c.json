@@ -1,0 +1,32 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2022-07-22 07:03:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2022-07-22 07:03:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2022-07-22 07:03:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2022-07-22 07:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "jungle": "2022-07-22 07:03:12 +0000"
+    },
+    "done": false
+  }
+}

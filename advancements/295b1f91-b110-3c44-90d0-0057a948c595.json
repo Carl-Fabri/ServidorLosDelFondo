@@ -1,0 +1,52 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2022-07-22 07:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-07-22 07:07:21 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2022-07-22 07:05:58 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2022-07-22 07:06:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2022-07-22 07:00:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2022-07-22 07:00:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2022-07-22 07:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2022-07-22 07:04:18 +0000",
+      "jungle_edge": "2022-07-22 07:03:19 +0000",
+      "jungle": "2022-07-22 07:00:58 +0000"
+    },
+    "done": false
+  }
+}
